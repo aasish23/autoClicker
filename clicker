@@ -16,7 +16,7 @@ public class clicker {
 			e.printStackTrace();
 			
 		}//interval btn clicks
-		delay = 60000; //300ms
+		delay = 60000; 
 	}
 	public void mouseClick(int button) {
 		mouse.mousePress(button);
