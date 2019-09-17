@@ -1,3 +1,3 @@
 # autoClicker
-Java Auto CLicker
-Auto Click for the Clicker Hero game.
+Java Auto Clicker
+Auto Clicker made for the Clicker Hero game.
